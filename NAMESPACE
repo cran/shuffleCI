@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("plotrix", "plotCI")
+importFrom("graphics", "axis")
+importFrom("stats", "qt", "rbinom", "runif", "sd", "t.test","cor.test")

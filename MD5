@@ -1,0 +1,10 @@
+48e2f3b43427feb96deaeb0051a59054 *DESCRIPTION
+6b0fa93dde57a950a9dd520bd747b3e4 *NAMESPACE
+79a63f8d9b3951f4bab53ff3edc3686f *R/ktau.R
+4b2f34798140f8a9a68d3252683e04c3 *R/rseq.R
+bb2ebe007c869e275526bfc2b7b957f1 *R/shuffle.R
+128926ddda0fa216fcbeb64b79fe1f4b *R/sigtest.R
+76b3ea3d930e61230e7b5745103a6914 *man/ktau.Rd
+351d287f7d068faddad09b50032a1cb8 *man/rseq.Rd
+f908ace1bbdb14cf54c17c93656a895a *man/shuffle.Rd
+bbea4703906e4a52ce81dad88685c748 *man/sigtest.Rd
